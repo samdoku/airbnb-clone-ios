@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "PPS-R001_Rooms-Update-2024_3-Estate-Rooms-1.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
